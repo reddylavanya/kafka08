@@ -86,7 +86,7 @@ java -cp .\target\kafka08-1.0-SNAPSHOT-jar-with-dependencies.jar edu.northwest.l
 Open a new PowerShell as Administrator in the root project folder, start the Producer app using topic test:
 
 ```PowerShell
-java -cp target/kafka-case-1.0-SNAPSHOT-jar-with-dependencies.jar edu.nwmissouri.isl.professorcase.kafka.CustomProducer
+java -cp .\target\kafka08-1.0-SNAPSHOT-jar-with-dependencies.jar edu.northwest.lavanya.CustomProducer
 ```
 
 ## Test Communications
